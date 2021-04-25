@@ -1,1 +1,1 @@
-docker build -t home_ubuntu .
+docker build -t transmision .
