@@ -1,1 +1,1 @@
-docker build -t transmision .
+docker build -t transmission .
